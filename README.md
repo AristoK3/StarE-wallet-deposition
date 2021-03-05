@@ -3,7 +3,7 @@ Halocoin
 
 *In development*
 
-![this is real, ok?](http://i.imgur.com/lz7hOlC.gif)
+
 
 ## What is this?
 
