@@ -28,28 +28,6 @@ Blockchain services include:
 - Peers Check : Regularly check known peers to stay up-to-date
 - Peer Listen : Listen to other peers who are checking
 
-
-## Getting started
-
-Halocoin is packaged according to distutils guidelines that is supported by PyPI. As like any other python project,
-I recommend you to install this on a virtualenv.
-
-Also, Halocoin only works and tested on Python 3 and above.
-
-```
-git clone https://github.com/halilozercan/halocoin
-cd halocoin
-virtualenv venv -p python3
-source venv/bin/activate
-python3 setup.py install
-```
-
-or
-
-```
-pip install halocoin
-```
-
 ## How to run
 
 ```cli.py``` module offers a cool CLI to interact with the blockchain engine. When you install this package, you can call this module by 'halocoin' executable.
